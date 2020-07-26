@@ -2,4 +2,4 @@
  Samo za offroad
  
  ## Path:
- BW_Offroad\data\offroadhatchback\data\**textura.paa**
+ BW_Offroad\data\offroadhatchback\data\textura.paa
